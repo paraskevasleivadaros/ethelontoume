@@ -69,6 +69,16 @@ const config = {
           //   position: 'left',
           //   label: 'Tutorial',
           // },
+          {
+            to: '/contact',
+            label: 'Επικοινωνία',
+            position: 'left',
+            items: [
+              { label: 'Συχνές Ερωτήσεις', to: '/contact/faq' },
+              { label: 'Ενημερωτικό Δελτίο', to: '/contact/newsletter' },        
+              { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },                  
+            ],
+          },              
           {to: '/blog', label: 'Blog', position: 'right'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
