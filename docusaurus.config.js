@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Σύλλογος Εθελοντούμε',
+  tagline: 'Σύλλογος Φίλων Παιδιών, Εφήβων, Ενηλίκων ΑμεΑ και όλων των παιδιών «Εθελοντούμε»',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -57,70 +57,83 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Σύλλογος Εθελοντούμε',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
+          {to: '/blog', label: 'Blog', position: 'right'},
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
         style: 'dark',
         links: [
+          // {
+          //   title: 'Docs',
+          //   items: [
+          //     {
+          //       label: 'Tutorial',
+          //       to: '/docs/intro',
+          //     },
+          //   ],
+          // },
           {
-            title: 'Docs',
+            title: 'Κοινότητα',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Instagram',
+                href: 'https://instagram.com/ethelontoume',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://facebook.com/syllogos.ethelontoume',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Σχετικά με',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Σκοπός',
+                to: '/about',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Πολιτική Cookies',
+                to: '/about/cookies',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Πολιτική Απορρήτου',
+                to: '/about/privacy-policy',
+              },
+              {
+                label: 'Όροι και Προϋποθέσεις',
+                to: '/about/terms-and-conditions',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Περισσότερα',
             items: [
               {
                 label: 'Blog',
                 to: '/blog',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
             ],
-          },
+          },               
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Σύλλογος Εθελεντούμε - Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
