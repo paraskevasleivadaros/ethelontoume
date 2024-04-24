@@ -103,12 +103,12 @@ const config = {
             title: 'Κοινότητα',
             items: [
               {
-                label: 'Instagram',
-                href: 'https://instagram.com/ethelontoume',
-              },
-              {
                 label: 'Facebook',
                 href: 'https://facebook.com/syllogos.ethelontoume',
+              },              
+              {
+                label: 'Instagram',
+                href: 'https://instagram.com/ethelontoume',
               },
             ],
           },
