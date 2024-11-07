@@ -124,26 +124,48 @@ const config = {
             ],
           },
           {
-            title: 'Σχετικά με',
+            title: 'Όραμα',
             items: [
               {
-                label: 'Όραμα',
-                to: '/vision',
+                label: 'Καταστατικό',
+                to: '/vision/constitution',
               },
               {
-                label: 'Πολιτική Cookies',
-                to: '/vision/cookies',
-              },
-              {
-                label: 'Πολιτική Απορρήτου',
-                to: '/vision/privacy-policy',
-              },
-              {
-                label: 'Όροι και Προϋποθέσεις',
-                to: '/vision/terms-and-conditions',
+                label: 'Διοικητικό Συμβούλιο',
+                to: '/vision/board-of-directors',
               },
             ],
           },
+          {
+            title: 'Επικοινωνία',
+            items: [
+              {
+                label: 'Συχνές Ερωτήσεις',
+                to: '/contact/faq',
+              },
+              {
+                label: 'Ενημερωτικό Δελτίο',
+                to: '/contact/newsletter',
+              },
+              {
+                label: 'Τρόπoς Λειτουργίας',
+                to: '/contact/tropos-leitourgias',
+              },              
+            ],
+          },
+          {
+            title: 'Όροι και Προϋποθέσεις',
+            items: [
+              {
+                label: 'Πολιτική Cookies',
+                to: '/contact/cookies-policy',
+              },
+              {
+                label: 'Πολιτική Aπορρήτου',
+                to: '/contact/privacy-policy',
+              },          
+            ],
+          },           
           {
             title: 'Περισσότερα',
             items: [
