@@ -76,7 +76,8 @@ const config = {
             items: [
               { label: 'Καταστατικό', to: '/vision/constitution' },
               { label: 'Διοικητικό Συμβούλιο', to: '/vision/board-of-directors' },                  
-            ],          
+            ],
+          },             
           {
             to: '/contact',
             label: 'Επικοινωνία',
