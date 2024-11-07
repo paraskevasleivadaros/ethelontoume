@@ -84,13 +84,19 @@ const config = {
             position: 'left',
             items: [
               { label: 'Συχνές Ερωτήσεις', to: '/contact/faq' },
-              { label: 'Ενημερωτικό Δελτίο', to: '/contact/newsletter' },
-              { label: 'Πολιτική Cookies', to: '/contact/cookies-policy' },             
-              { label: 'Πολιτική Aπορρήτου', to: '/contact/privacy-policy' },              
+              { label: 'Ενημερωτικό Δελτίο', to: '/contact/newsletter' },           
               { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },
-              { label: 'Όροι και Προϋποθέσεις', to: '/contact/terms-and-conditions' },
             ],
-          },              
+          },
+         {
+            to: '/terms-and-conditions',
+            label: 'Όροι και Προϋποθέσεις',
+            position: 'left',
+            items: [          
+              { label: 'Πολιτική Cookies', to: '/contact/cookies-policy' },             
+              { label: 'Πολιτική Aπορρήτου', to: '/contact/privacy-policy' },   
+            ],
+          },          
           {to: '/blog', label: 'Blog', position: 'right'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
