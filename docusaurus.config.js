@@ -116,20 +116,20 @@ const config = {
             title: 'Σχετικά με',
             items: [
               {
-                label: 'Σκοπός',
-                to: '/about',
+                label: 'Όραμα',
+                to: '/vision',
               },
               {
                 label: 'Πολιτική Cookies',
-                to: '/about/cookies',
+                to: '/vision/cookies',
               },
               {
                 label: 'Πολιτική Απορρήτου',
-                to: '/about/privacy-policy',
+                to: '/vision/privacy-policy',
               },
               {
                 label: 'Όροι και Προϋποθέσεις',
-                to: '/about/terms-and-conditions',
+                to: '/vision/terms-and-conditions',
               },
             ],
           },
