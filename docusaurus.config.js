@@ -93,8 +93,8 @@ const config = {
             label: 'Όροι και Προϋποθέσεις',
             position: 'left',
             items: [          
-              { label: 'Πολιτική Cookies', to: '/contact/cookies-policy' },             
-              { label: 'Πολιτική Aπορρήτου', to: '/contact/privacy-policy' },   
+              { label: 'Πολιτική Cookies', to: '/terms-and-conditions/cookies-policy' },             
+              { label: 'Πολιτική Aπορρήτου', to: '/terms-and-conditions/privacy-policy' },   
             ],
           },          
           {to: '/blog', label: 'Blog', position: 'right'},
@@ -165,11 +165,11 @@ const config = {
             items: [
               {
                 label: 'Πολιτική Cookies',
-                to: '/contact/cookies-policy',
+                to: '/terms-and-conditions/cookies-policy',
               },
               {
                 label: 'Πολιτική Aπορρήτου',
-                to: '/contact/privacy-policy',
+                to: '/terms-and-conditions/privacy-policy',
               },          
             ],
           },           
