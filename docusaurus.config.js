@@ -70,13 +70,24 @@ const config = {
           //   label: 'Tutorial',
           // },
           {
+            to: '/vision',
+            label: 'Όραμα',
+            position: 'left',
+            items: [
+              { label: 'Καταστατικό', to: '/vision/constitution' },
+              { label: 'Διοικητικό Συμβούλιο', to: '/vision/board-of-directors' },                  
+            ],          
+          {
             to: '/contact',
             label: 'Επικοινωνία',
             position: 'left',
             items: [
               { label: 'Συχνές Ερωτήσεις', to: '/contact/faq' },
-              { label: 'Ενημερωτικό Δελτίο', to: '/contact/newsletter' },        
-              { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },                  
+              { label: 'Ενημερωτικό Δελτίο', to: '/contact/newsletter' },
+              { label: 'Πολιτική Cookies', to: '/contact/cookies-policy' },             
+              { label: 'Πολιτική Aπορρήτου', to: '/contact/privacy-policy' },              
+              { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },
+              { label: 'Όροι και Προϋποθέσεις', to: '/contact/terms-and-conditions' },
             ],
           },              
           {to: '/blog', label: 'Blog', position: 'right'},
