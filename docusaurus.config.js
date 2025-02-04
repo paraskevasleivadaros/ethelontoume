@@ -183,7 +183,7 @@ const config = {
             ],
           },               
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Σύλλογος Εθελεντούμε - Built with Docusaurus.`,
+        copyright: `Copyright © 2024 - ${new Date().getFullYear()} Σύλλογος Εθελεντούμε - Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
