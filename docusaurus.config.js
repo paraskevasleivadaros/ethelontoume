@@ -74,7 +74,6 @@ const config = {
             label: 'Όραμα',
             position: 'left',
             items: [
-              { label: 'Καταστατικό', to: '/vision/constitution' },
               { label: 'Διοικητικό Συμβούλιο', to: '/vision/board-of-directors' },                  
             ],
           },             
@@ -133,10 +132,6 @@ const config = {
           {
             title: 'Όραμα',
             items: [
-              {
-                label: 'Καταστατικό',
-                to: '/vision/constitution',
-              },
               {
                 label: 'Διοικητικό Συμβούλιο',
                 to: '/vision/board-of-directors',
