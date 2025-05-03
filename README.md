@@ -1,7 +1,7 @@
 # ethelontoume.gr
 A website built on React and hosted on Vercel to support the mission of **Εθελοντούμε**, a Greek non-profit organization that raises awareness and provides support for children, teenagers, and adults with disabilities.
 
-![ethelontoume-cover](static/img/logo-512x512.png)
+![ethelontoume-cover](static/img/logo2.png)
 
 ## 🛠️ Tech Stack
 [![MDX](https://skillicons.dev/icons?i=md)](https://mdxjs.com/)
