@@ -69,7 +69,8 @@ const config = {
           //   position: 'left',
           //   label: 'Tutorial',
           // },
-          {to: '/vision', label: 'Όραμα', position: 'left'},             
+          {to: '/vision', label: 'Όραμα', position: 'left'},
+          {to: '/actions', label: 'Δράσεις', position: 'left'},  
           {
             to: '/contact',
             label: 'Επικοινωνία',
@@ -126,8 +127,17 @@ const config = {
             title: 'Όραμα',
             items: [
               {
-                label: 'Διοικητικό Συμβούλιο',
-                to: '/vision/board-of-directors',
+                label: 'Το Όραμά μας',
+                to: '/vision',
+              },
+            ],
+          },
+          {
+            title: 'Δράσεις',
+            items: [
+              {
+                label: 'Οι Δράσεις μας',
+                to: '/actions',
               },
             ],
           },
