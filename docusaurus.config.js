@@ -8,7 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Σύλλογος Εθελοντούμε',
   tagline: 'Σύλλογος Φίλων Παιδιών, Εφήβων, Ενηλίκων ΑμεΑ και όλων των παιδιών «Εθελοντούμε»',
-  url: 'https://your-docusaurus-test-site.com',
+  //url: 'https://your-docusaurus-test-site.com', -->
+  url: 'https://ethelontoume.gr',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
