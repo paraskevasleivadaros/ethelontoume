@@ -73,7 +73,7 @@ const config = {
           {to: '/vision', label: 'Όραμα', position: 'left'},
           {to: '/actions', label: 'Δράσεις', position: 'left'},
           { to: '/contact', label: 'Επικοινωνία', position: 'left' },
-          { to: '/terms-and-conditions', label: 'Όροι και Προϋποθέσεις', position: 'left' },
+          //{ to: '/terms-and-conditions', label: 'Όροι και Προϋποθέσεις', position: 'left' },
           //{
           //  to: '/contact',
           //  label: 'Επικοινωνία',
