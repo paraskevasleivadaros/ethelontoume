@@ -69,14 +69,7 @@ const config = {
           //   position: 'left',
           //   label: 'Tutorial',
           // },
-          {
-            to: '/vision',
-            label: 'Όραμα',
-            position: 'left',
-            items: [
-              { label: 'Διοικητικό Συμβούλιο', to: '/vision/board-of-directors' },                  
-            ],
-          },             
+          {to: '/vision', label: 'Όραμα', position: 'left'},             
           {
             to: '/contact',
             label: 'Επικοινωνία',
