@@ -71,16 +71,16 @@ const config = {
           // },
           {to: '/vision', label: 'Όραμα', position: 'left'},
           {to: '/actions', label: 'Δράσεις', position: 'left'},  
-          {
-            to: '/contact',
-            label: 'Επικοινωνία',
-            position: 'left',
-            items: [
-              { label: 'Συχνές Ερωτήσεις', to: '/contact/faq' },
-              { label: 'Ενημερωτικό Δελτίο', to: '/contact/newsletter' },           
-              { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },
-            ],
-          },
+          //{
+          //  to: '/contact',
+          //  label: 'Επικοινωνία',
+          //  position: 'left',
+          //  items: [
+          //    { label: 'Συχνές Ερωτήσεις', to: '/contact/faq' },
+          //    { label: 'Ενημερωτικό Δελτίο', to: '/contact/newsletter' },           
+          //    { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },
+          //  ],
+          //},
           {
             label: 'Επικοινωνία',
             position: 'left',
@@ -90,15 +90,23 @@ const config = {
               { label: 'Τρόπος Λειτουργίας', to: '/contact#τρόπος-λειτουργίας' },
             ],
           },
-         {
-            to: '/terms-and-conditions',
+         //{
+         //   to: '/terms-and-conditions',
+         //   label: 'Όροι και Προϋποθέσεις',
+         //   position: 'left',
+         //   items: [          
+         //     { label: 'Πολιτική Cookies', to: '/terms-and-conditions/cookies-policy' },             
+         //     { label: 'Πολιτική Aπορρήτου', to: '/terms-and-conditions/privacy-policy' },   
+         //   ],
+         // },
+          {
             label: 'Όροι και Προϋποθέσεις',
             position: 'left',
             items: [          
-              { label: 'Πολιτική Cookies', to: '/terms-and-conditions/cookies-policy' },             
-              { label: 'Πολιτική Aπορρήτου', to: '/terms-and-conditions/privacy-policy' },   
+              { label: 'Πολιτική Cookies', to: '/terms-and-conditions#πολιτική-cookies' },             
+              { label: 'Πολιτική Απορρήτου', to: '/terms-and-conditions#πολιτική-απορρήτου' },   
             ],
-          },          
+          },               
           {to: '/blog', label: 'Blog', position: 'right'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
@@ -155,16 +163,16 @@ const config = {
             items: [
               {
                 label: 'Συχνές Ερωτήσεις',
-                to: '/contact/faq',
+                to: '/contact#συχνές-ερωτήσεις',
               },
               {
                 label: 'Ενημερωτικό Δελτίο',
-                to: '/contact/newsletter',
+                to: '/contact#newsletter',
               },
               {
-                label: 'Τρόπoς Λειτουργίας',
-                to: '/contact/tropos-leitourgias',
-              },              
+                label: 'Τρόπος Λειτουργίας',
+                to: '/contact#τρόπος-λειτουργίας',
+              },
             ],
           },
           {
@@ -172,14 +180,14 @@ const config = {
             items: [
               {
                 label: 'Πολιτική Cookies',
-                to: '/terms-and-conditions/cookies-policy',
+                to: '/terms-and-conditions#πολιτική-cookies',
               },
               {
-                label: 'Πολιτική Aπορρήτου',
-                to: '/terms-and-conditions/privacy-policy',
-              },          
+                label: 'Πολιτική Απορρήτου',
+                to: '/terms-and-conditions#πολιτική-απορρήτου',
+              },
             ],
-          },           
+          },         
           {
             title: 'Περισσότερα',
             items: [
