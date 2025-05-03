@@ -205,6 +205,10 @@ const config = {
                 label: 'Πολιτική Απορρήτου',
                 to: '/terms-and-conditions#πολιτική-απορρήτου',
               },
+              {
+                label: 'Γενικοί Όροι Χρήσης',
+                to: '/terms-and-conditions',
+              },               
             ],
           },         
           {
