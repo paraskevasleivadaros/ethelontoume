@@ -81,6 +81,15 @@ const config = {
               { label: 'Τρόπoς Λειτουργίας', to: '/contact/tropos-leitourgias' },
             ],
           },
+          {
+            label: 'Επικοινωνία',
+            position: 'left',
+            items: [
+              { label: 'Συχνές Ερωτήσεις', to: '/contact#συχνές-ερωτήσεις' },
+              { label: 'Ενημερωτικό Δελτίο', to: '/contact#newsletter' },
+              { label: 'Τρόπος Λειτουργίας', to: '/contact#τρόπος-λειτουργίας' },
+            ],
+          },
          {
             to: '/terms-and-conditions',
             label: 'Όροι και Προϋποθέσεις',
