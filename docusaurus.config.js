@@ -71,7 +71,7 @@ const config = {
           //   label: 'Tutorial',
           // },
           {to: '/vision', label: 'Όραμα', position: 'left'},
-          {to: '/actions', label: 'Δράσεις', position: 'left'},
+          {to: '/activities', label: 'Δράσεις', position: 'left'},
           { to: '/contact', label: 'Επικοινωνία', position: 'left' },
           //{ to: '/terms-and-conditions', label: 'Όροι και Προϋποθέσεις', position: 'left' },
           //{
@@ -161,15 +161,15 @@ const config = {
             items: [
               {
                 label: 'Σε Σχολεία & Δήμους',
-                to: '/actions#δράσεις-και-εκστρατείες-σε-σχολεία-και-δήμους',
+                to: '/activities#δράσεις-και-εκστρατείες-σε-σχολεία-και-δήμους',
               },
               {
                 label: 'Ευαισθητοποίησης',
-                to: '/actions#δράσεις-ευαισθητοποίησης-για-όλα-τα-είδη-αναπηρίας',
+                to: '/activities#δράσεις-ευαισθητοποίησης-για-όλα-τα-είδη-αναπηρίας',
               },
               {
                 label: 'Βιωματικά Εργαστήρια',
-                to: '/actions#βιωματικά-εργαστήρια-και-εκδηλώσεις',
+                to: '/activities#βιωματικά-εργαστήρια-και-εκδηλώσεις',
               },
             ],
           },
