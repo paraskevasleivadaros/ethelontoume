@@ -182,7 +182,7 @@ const config = {
               },
               {
                 label: 'Ενημερωτικό Δελτίο',
-                to: '/contact#newsletter',
+                to: '/contact#ενημερωτικό-δελτίο',
               },
               {
                 label: 'Τρόπος Λειτουργίας',
