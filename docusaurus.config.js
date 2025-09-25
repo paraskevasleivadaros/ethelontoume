@@ -191,7 +191,7 @@ const config = {
             ],
           },
           {
-            title: 'Όροι και Προϋποθέσεις',
+            title: 'Σχετικά',
             items: [
               {
                 label: 'Πολιτική Cookies',
@@ -202,7 +202,7 @@ const config = {
                 to: '/terms-and-conditions#πολιτική-απορρήτου',
               },
               {
-                label: 'Γενικοί Όροι Χρήσης',
+                label: 'Όροι και Προϋποθέσεις',
                 to: '/terms-and-conditions',
               },               
             ],
