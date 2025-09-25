@@ -177,34 +177,34 @@ const config = {
             title: 'Επικοινωνία',
             items: [
               {
-                label: 'Συχνές Ερωτήσεις',
-                to: '/contact#συχνές-ερωτήσεις',
+                label: 'Στοιχεία Επικοινωνίας',
+                to: '/contact',
               },
               {
                 label: 'Ενημερωτικό Δελτίο',
                 to: '/contact#ενημερωτικό-δελτίο',
-              },
+              },   
               {
-                label: 'Στοιχεία Επικοινωνίας',
-                to: '/contact',
-              },              
+                label: 'Συχνές Ερωτήσεις',
+                to: '/contact#συχνές-ερωτήσεις',
+              },         
             ],
           },
           {
             title: 'Σχετικά',
             items: [
               {
-                label: 'Πολιτική Cookies',
-                to: '/terms-and-conditions#πολιτική-cookies',
+                label: 'Όροι και Προϋποθέσεις',
+                to: '/terms-and-conditions',
               },
               {
                 label: 'Πολιτική Απορρήτου',
                 to: '/terms-and-conditions#πολιτική-απορρήτου',
-              },
+              },   
               {
-                label: 'Όροι και Προϋποθέσεις',
-                to: '/terms-and-conditions',
-              },               
+                label: 'Πολιτική Cookies',
+                to: '/terms-and-conditions#πολιτική-cookies',
+              },      
             ],
           },         
           {
