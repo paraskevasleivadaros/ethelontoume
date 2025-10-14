@@ -207,9 +207,9 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/ethelontoume',
-              },              
+                label: 'Επικοινωνία',
+                to: '/contact',
+              },            
             ],
           },               
         ],
