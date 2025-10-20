@@ -1,6 +1,6 @@
 ---
 slug: imerida-gia-goneis-sholikos-ekfobismos-me-diermineia-sti-noimatiki-glossa
-title: Ημερίδα για Γονείς: Σχολικός Εκφοβισμός (με διερμηνεία στη νοηματική γλώσσα)
+title: Ημερίδα για Γονείς - Σχολικός Εκφοβισμός (με διερμηνεία στη νοηματική γλώσσα)
 authors: syllogos
 tags: [ημερίδα, bullying]
 ---
