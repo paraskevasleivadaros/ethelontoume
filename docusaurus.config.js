@@ -60,7 +60,7 @@ const config = {
       navbar: {
         title: 'Σύλλογος Εθελοντούμε',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Ethelontoume Logo',
           src: 'img/logo.jpg',
         },
         items: [
