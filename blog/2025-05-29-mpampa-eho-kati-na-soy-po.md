@@ -2,7 +2,7 @@
 slug: mpampa-eho-kati-na-soy-po
 title: Μπαμπά, έχω κάτι να σου πω!
 authors: syllogos
-tags: [ημερίδα, docusaurus]
+tags: [ημερίδα, πατέρας]
 ---
 
 Διεξαγωγή: 15-06-2025
