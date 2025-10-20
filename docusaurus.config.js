@@ -61,7 +61,7 @@ const config = {
         title: 'Σύλλογος Εθελοντούμε',
         logo: {
           alt: 'Ethelontoume Logo',
-          src: 'img/logo.jpg',
+          src: 'img/logo-circle.jpg',
         },
         items: [
           // {
