@@ -1,6 +1,8 @@
 ---
 slug: diadiktiaki-imerida-i-eidiki-agogi-simera-prokliseis-elleipseis-kai-prooptikes
 title: Διαδικτυακή Ημερίδα - Η Ειδική Αγωγή σήμερα — Προκλήσεις, Ελλείψεις και Προοπτικές
+description: Διαδικτυακή ημερίδα για την Ειδική Αγωγή (2/11/2025, 11:00–13:00, Zoom). Ανταλλαγή εμπειριών και προτάσεων. Με διερμηνεία στη Νοηματική.
+image: /img/blog/i-eidiki-agogi-simera.jpg
 authors: syllogos
 tags: [ειδική, αγωγή, ημερίδα, εκπαίδευση, ψυχολογία, inclusion]
 ---
