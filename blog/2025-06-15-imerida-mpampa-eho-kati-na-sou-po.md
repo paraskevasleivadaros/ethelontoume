@@ -1,6 +1,6 @@
 ---
 slug: mpampa-eho-kati-na-sou-po
-title: Μπαμπά, έχω κάτι να σου πω!
+title: Ημερίδα - Μπαμπά, έχω κάτι να σου πω!
 authors: syllogos
 tags: [ημερίδα, πατέρας]
 ---
