@@ -1,6 +1,8 @@
 ---
 slug: mpampa-eho-kati-na-sou-po
 title: Ημερίδα - Μπαμπά, έχω κάτι να σου πω!
+description: Συζήτηση για τον σύγχρονο πατέρα με ιστορίες και συναίσθημα. 15 Ιουνίου 2025, Μύρτιλλο Καφέ. Πρόσβαση ΑμεΑ και διερμηνεία στη Νοηματική.
+image: /img/blog/mpampa-eho-kati-na-sou-po.webp
 authors: syllogos
 tags: [ημερίδα, πατέρας]
 ---
