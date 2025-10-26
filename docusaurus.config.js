@@ -72,7 +72,7 @@ const config = {
           // },
           {to: '/vision', label: 'Όραμα', position: 'left'},
           {to: '/activities', label: 'Δράσεις', position: 'left'},
-          {to: '/ambassadors', label: 'Πρέσβεις', position: 'left'},
+          //{to: '/ambassadors', label: 'Πρέσβεις', position: 'left'},
           { to: '/contact', label: 'Επικοινωνία', position: 'left' },
           //{ to: '/terms-and-conditions', label: 'Όροι και Προϋποθέσεις', position: 'left' },
           //{
@@ -159,10 +159,10 @@ const config = {
                 label: 'Δράσεις',
                 to: '/activities',
               },
-              {
-                label: 'Πρέσβεις',
-                to: '/ambassadors',
-              },              
+              //{
+                //label: 'Πρέσβεις',
+                //to: '/ambassadors',
+              //},              
             ],
           },
           //{
