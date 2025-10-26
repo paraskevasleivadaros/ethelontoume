@@ -9,7 +9,7 @@ tags: [ειδική, αγωγή, ημερίδα, εκπαίδευση, ψυχο�
 
 Σας προσκαλούμε σε μια ανοιχτή διαδικτυακή συζήτηση για τα κρίσιμα ζητήματα που αντιμετωπίζει σήμερα η Ειδική Αγωγή.
 
-![afisa-sxolikos-ekfovismos](/img/blog/i-eidiki-agogi-simera-prokliseis-elleipseis-kai-prooptikes.jpg)
+![i-eidiki-agogi-simera-prokliseis-elleipseis-kai-prooptikes.jpg](/img/blog/i-eidiki-agogi-simera-prokliseis-elleipseis-kai-prooptikes.jpg)
 
 🎯 Ελάτε να ανταλλάξουμε απόψεις, εμπειρίες και προτάσεις για το μέλλον της υποστήριξης των παιδιών με ειδικές εκπαιδευτικές ανάγκες.
 
