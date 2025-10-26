@@ -35,4 +35,4 @@ tags: [ειδική, αγωγή, ημερίδα, εκπαίδευση, ψυχο�
 📅 Ημερομηνία: Κυριακή 2 Νοεμβρίου 2025  
 🕒 Ώρα: 11:00 - 13:00  
 💻 Μέσω: Zoom  
-🔗 Δήλωση συμμετοχής: https://docs.google.com/forms/d/11yV1w836bmevCZfs1cHQASg98cJ8mpRS8O_g7csR1Q4/viewform?hl=EL&pli=1&hl=EL&pli=1&edit_requested=true
+🔗 Δήλωση συμμετοχής: https://docs.google.com/forms/d/11yV1w836bmevCZfs1cHQASg98cJ8mpRS8O_g7csR1Q4/viewform?hl=EL&pli=1&edit_requested=true
