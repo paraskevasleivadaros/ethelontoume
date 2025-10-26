@@ -1,6 +1,8 @@
 ---
 slug: imerida-gia-goneis-sholikos-ekfobismos-me-diermineia-sti-noimatiki-glossa
 title: Ημερίδα για Γονείς - Σχολικός Εκφοβισμός (με διερμηνεία στη νοηματική γλώσσα)
+description: Ενημερωτική ημερίδα για γονείς πάνω σε ενδοσχολική βία, bullying & cyberbullying. 4 Μαΐου 2025, Αργυρούπολη. Πρόσβαση ΑμεΑ και διερμηνεία νοηματικής.
+image: /img/blog/afisa-sxolikos-ekfovismos.webp
 authors: syllogos
 tags: [ημερίδα, bullying]
 ---
