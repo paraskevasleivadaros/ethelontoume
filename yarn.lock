@@ -9381,9 +9381,9 @@ yocto-queue@^1.0.0:
   integrity sha512-AyeEbWOu/TAXdxlV9wmGcR0+yh2j3vYPGOECcIj2S7MkrLyC7ne+oye2BKTItt0ii2PHk4cDy+95+LshzbXnGg==
 
 zod@^4.1.8:
-  version "4.1.12"
-  resolved "https://registry.yarnpkg.com/zod/-/zod-4.1.12.tgz#64f1ea53d00eab91853195653b5af9eee68970f0"
-  integrity sha512-JInaHOamG8pt5+Ey8kGmdcAcg3OL9reK8ltczgHTAwNhMys/6ThXHityHxVV2p3fkw/c+MAvBHFVYHFZDmjMCQ==
+  version "4.4.3"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-4.4.3.tgz#b680f172885d18bbebf21a834ea25e55a1bbf356"
+  integrity sha512-ytENFjIJFl2UwYglde2jchW2Hwm4GJFLDiSXWdTrJQBIN9Fcyp7n4DhxJEiWNAJMV1/BqWfW/kkg71UDcHJyTQ==
 
 zwitch@^2.0.0:
   version "2.0.4"
