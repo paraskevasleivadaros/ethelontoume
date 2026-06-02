@@ -703,12 +703,12 @@
     "@babel/helper-plugin-utils" "^7.29.7"
 
 "@babel/plugin-transform-for-of@^7.27.1":
-  version "7.27.1"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-for-of/-/plugin-transform-for-of-7.27.1.tgz#bc24f7080e9ff721b63a70ac7b2564ca15b6c40a"
-  integrity sha512-BfbWFFEJFQzLCQ5N8VocnCtA8J1CLkNTe2Ms2wocj75dd6VpiqS5Z5quTYcUoo4Yq+DN0rtikODccuv7RU81sw==
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-for-of/-/plugin-transform-for-of-7.29.7.tgz#c65a678592117717aacdb10c1b73a9cb85e830be"
+  integrity sha512-zeSIHh0+E1Um1WJRXCFlHQYu2ieJNdivLLjlBEp+dIBu3S51n+SZZmIXjxnItw6pz56Cn+KvK68BIBVsxq2JiQ==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.27.1"
-    "@babel/helper-skip-transparent-expression-wrappers" "^7.27.1"
+    "@babel/helper-plugin-utils" "^7.29.7"
+    "@babel/helper-skip-transparent-expression-wrappers" "^7.29.7"
 
 "@babel/plugin-transform-function-name@^7.27.1":
   version "7.27.1"
