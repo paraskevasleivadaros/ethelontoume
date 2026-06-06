@@ -632,6 +632,14 @@
     "@babel/helper-plugin-utils" "^7.27.1"
     "@babel/traverse" "^7.28.0"
 
+"@babel/plugin-transform-destructuring@^7.29.7":
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-destructuring/-/plugin-transform-destructuring-7.29.7.tgz#5781ec6947852e27b64c1165f0db431f408090e4"
+  integrity sha512-iPX8aD6H9zV5s7ZsqTdNocPN/MGQ5sSMnElKrktxjJRMnB2jN/1p2+R7GkfD6CAYoVFqy5A4XnSIUeGgJzIWpg==
+  dependencies:
+    "@babel/helper-plugin-utils" "^7.29.7"
+    "@babel/traverse" "^7.29.7"
+
 "@babel/plugin-transform-dotall-regex@^7.27.1":
   version "7.27.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-dotall-regex/-/plugin-transform-dotall-regex-7.27.1.tgz#aa6821de864c528b1fecf286f0a174e38e826f4d"
@@ -663,12 +671,12 @@
     "@babel/helper-plugin-utils" "^7.27.1"
 
 "@babel/plugin-transform-explicit-resource-management@^7.28.0":
-  version "7.28.0"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-explicit-resource-management/-/plugin-transform-explicit-resource-management-7.28.0.tgz#45be6211b778dbf4b9d54c4e8a2b42fa72e09a1a"
-  integrity sha512-K8nhUcn3f6iB+P3gwCv/no7OdzOZQcKchW6N389V6PD8NUWKZHzndOd9sPDVbMoBsbmjMqlB4L9fm+fEFNVlwQ==
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-explicit-resource-management/-/plugin-transform-explicit-resource-management-7.29.7.tgz#65c8b9f76ec915b02a0e1df703125a0fca58abaa"
+  integrity sha512-Rstj7coNz8sE+7Ju7ihpHLI564lsK5pUpNNlvptCIC/16E/S5hbl6n3kESPKdNRmqEWlpn5xpS5Q2dvXBsySLw==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.27.1"
-    "@babel/plugin-transform-destructuring" "^7.28.0"
+    "@babel/helper-plugin-utils" "^7.29.7"
+    "@babel/plugin-transform-destructuring" "^7.29.7"
 
 "@babel/plugin-transform-exponentiation-operator@^7.27.1":
   version "7.27.1"
