@@ -842,12 +842,12 @@
     "@babel/traverse" "^7.28.4"
 
 "@babel/plugin-transform-object-super@^7.27.1":
-  version "7.27.1"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-object-super/-/plugin-transform-object-super-7.27.1.tgz#1c932cd27bf3874c43a5cac4f43ebf970c9871b5"
-  integrity sha512-SFy8S9plRPbIcxlJ8A6mT/CxFdJx/c04JEctz4jf8YZaVS2px34j7NXRrlGlHkN/M2gnpL37ZpGRGVFLd3l8Ng==
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-object-super/-/plugin-transform-object-super-7.29.7.tgz#e89283d14fa3c35817d4493ffc6bc649aa10e4eb"
+  integrity sha512-Ea/diGcw0twB5IlZPO5sgET6fJsLJqPABqTuFWIR+iMPGPZJkATEIWx0wa+aEQ5UY1CBQyP/gkAiLEqn1vBiQA==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.27.1"
-    "@babel/helper-replace-supers" "^7.27.1"
+    "@babel/helper-plugin-utils" "^7.29.7"
+    "@babel/helper-replace-supers" "^7.29.7"
 
 "@babel/plugin-transform-optional-catch-binding@^7.27.1":
   version "7.29.7"
