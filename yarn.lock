@@ -420,6 +420,15 @@
     "@babel/helper-wrap-function" "^7.27.1"
     "@babel/traverse" "^7.27.1"
 
+"@babel/helper-remap-async-to-generator@^7.29.7":
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/helper-remap-async-to-generator/-/helper-remap-async-to-generator-7.29.7.tgz#34b1f68dd75b86d31df781a29c3ff2df88da82e6"
+  integrity sha512-16AMiW26DbXWBbr3B8wNozKM0ydMLB892vaOaJW/fPJdnT8vJk5sdkQcU/isqUxyCE0cEoa8wZOcbgDuC4b6Og==
+  dependencies:
+    "@babel/helper-annotate-as-pure" "^7.29.7"
+    "@babel/helper-wrap-function" "^7.29.7"
+    "@babel/traverse" "^7.29.7"
+
 "@babel/helper-replace-supers@^7.27.1", "@babel/helper-replace-supers@^7.29.7":
   version "7.29.7"
   resolved "https://registry.yarnpkg.com/@babel/helper-replace-supers/-/helper-replace-supers-7.29.7.tgz#bc3c3964329043c79112e513c1b198f16589ac21"
@@ -470,6 +479,15 @@
     "@babel/template" "^7.27.2"
     "@babel/traverse" "^7.28.3"
     "@babel/types" "^7.28.2"
+
+"@babel/helper-wrap-function@^7.29.7":
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/helper-wrap-function/-/helper-wrap-function-7.29.7.tgz#eec72163044548a0935e9d182bf2d547ec5ff483"
+  integrity sha512-iES0Skag9ERIF68aXadpO6dbXa03mNWK3sEqJaMnLNs/eC3l0lkImdfoy6Y09/SfkpawdAB4RjQ7PVA7TcVGdw==
+  dependencies:
+    "@babel/template" "^7.29.7"
+    "@babel/traverse" "^7.29.7"
+    "@babel/types" "^7.29.7"
 
 "@babel/helpers@^7.28.4":
   version "7.29.7"
@@ -595,13 +613,13 @@
     "@babel/helper-plugin-utils" "^7.27.1"
 
 "@babel/plugin-transform-async-generator-functions@^7.28.0":
-  version "7.28.0"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-async-generator-functions/-/plugin-transform-async-generator-functions-7.28.0.tgz#1276e6c7285ab2cd1eccb0bc7356b7a69ff842c2"
-  integrity sha512-BEOdvX4+M765icNPZeidyADIvQ1m1gmunXufXxvRESy/jNNyfovIqUyE7MVgGBjWktCoJlzvFA1To2O4ymIO3Q==
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-async-generator-functions/-/plugin-transform-async-generator-functions-7.29.7.tgz#a5365617921d82a1fee33124a1102bb38a1e677d"
+  integrity sha512-d98gXZkgswvkyohMBABkhm3GeXhYj8psWfwQ2C7gtfrKGTykQa/iOIi+JJhwMjPlZ6Vm2XN+DCf3Es1EoG4ZLA==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.27.1"
-    "@babel/helper-remap-async-to-generator" "^7.27.1"
-    "@babel/traverse" "^7.28.0"
+    "@babel/helper-plugin-utils" "^7.29.7"
+    "@babel/helper-remap-async-to-generator" "^7.29.7"
+    "@babel/traverse" "^7.29.7"
 
 "@babel/plugin-transform-async-to-generator@^7.27.1":
   version "7.27.1"
