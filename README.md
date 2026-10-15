@@ -1,4 +1,4 @@
-# ethelontoume.gr
+# ethelontoume
 A website built on React and hosted on GitHub Pages to support the mission of **Εθελοντούμε**, a Greek non-profit organization that raises awareness and provides support for children, teenagers, and adults with disabilities.
 
 ![ethelontoume-cover](static/img/logo2.png)
@@ -38,7 +38,7 @@ The project was initially created using the [Docusaurus CLI](https://v2.docusaur
 npx create-docusaurus@latest my-website classic
 ```
 
-It was then adapted and extended to reflect the content and visual identity of **ethelontoume.gr**.
+It was then adapted and extended to reflect the content and visual identity of **ethelontoume**.
 
 ## 🍴 Forking this repo
-Feel free to fork this repo and use it for your own projects. If you do, please consider linking back to our website at [ethelontoume.gr](https://ethelontoume.gr). And if you like it, a ⭐️ would mean a lot. Thank you!
+Feel free to fork this repo and use it for your own projects. And if you like it, a ⭐️ would mean a lot. Thank you!
