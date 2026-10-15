@@ -5,6 +5,7 @@ image: /img/logo.jpg
 ---
 
 import GoogleMapEmbed from '@site/src/components/GoogleMapEmbed'; 
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 # Επικοινωνία
 <GoogleMapEmbed src="https://google.com/maps/embed?pb=!1m18!1m12!1m3!1d9685.66474877905!2d23.812286072863323!3d38.00873609657125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a199a7aaf8b51f%3A0x910d6d7df6f564c6!2zzpHOsy4gzqDOsc-BzrHPg866zrXPhc6uLCDOlc67zrvOrM60zrE!5e1!3m2!1sel!2snl!4v1758840710074!5m2!1sel!2snl"/>
@@ -15,13 +16,13 @@ import GoogleMapEmbed from '@site/src/components/GoogleMapEmbed';
 
 ## Social Media
 <a href="https://facebook.com/syllogos.ethelontoume" target="_blank" rel="noopener noreferrer" style={{ marginRight: '1em' }}>
-  <img src="/img/facebook.svg" alt="Facebook" width="32" height="32" />
+  <img src={useBaseUrl('/img/facebook.svg')} alt="Facebook" width="32" height="32" />
 </a>
 <a href="https://instagram.com/ethelontoume" target="_blank" rel="noopener noreferrer" style={{ marginRight: '1em' }}>
-  <img src="/img/instagram.svg" alt="Instagram" width="32" height="32" />
+  <img src={useBaseUrl('/img/instagram.svg')} alt="Instagram" width="32" height="32" />
 </a>
 <a href="https://www.youtube.com/@ethelontoume" target="_blank" rel="noopener noreferrer">
-  <img src="/img/youtube.svg" alt="YouTube" width="32" height="32" />
+  <img src={useBaseUrl('/img/youtube.svg')} alt="YouTube" width="32" height="32" />
 </a>
 
 <!-- ## Ενημερωτικό Δελτίο -->

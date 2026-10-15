@@ -1,5 +1,5 @@
 # ethelontoume.gr
-A website built on React and hosted on Vercel to support the mission of **Εθελοντούμε**, a Greek non-profit organization that raises awareness and provides support for children, teenagers, and adults with disabilities.
+A website built on React and hosted on GitHub Pages to support the mission of **Εθελοντούμε**, a Greek non-profit organization that raises awareness and provides support for children, teenagers, and adults with disabilities.
 
 ![ethelontoume-cover](static/img/logo2.png)
 
@@ -12,13 +12,24 @@ A website built on React and hosted on Vercel to support the mission of **Εθε
 [![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 🚀 Deploy Your Own
-This project is a fully customized [Docusaurus](https://v2.docusaurus.io) site, deployed on Vercel. It was developed specifically for **Εθελοντούμε**, with several customizations to fit the needs of the organization and the people it supports.
+This project is a fully customized [Docusaurus](https://docusaurus.io) site, deployed on GitHub Pages. It was developed specifically for **Εθελοντούμε**, with several customizations to fit the needs of the organization and the people it supports.
 
-If you'd like to build upon this project, you can deploy your own version to Vercel:
+Live site: https://paraskevasleivadaros.github.io/ethelontoume/
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/docusaurus-2&template=docusaurus-2)
+1. In the repository's **Settings > Pages**, set **Source** to **GitHub Actions**.
+2. Commit and push the deployment configuration to `main`.
+3. Watch **Actions > Deploy GitHub Pages** for the build and deployment result.
 
-_Live Example: https://docusaurus-2-template.vercel.app_
+Subsequent pushes to `main` deploy automatically. You can also use **Run workflow** from the workflow's Actions page.
+
+To verify the production build locally:
+
+```shell
+npm ci
+npm run build
+```
+
+To publish at `https://paraskevasleivadaros.github.io/` instead, use a repository named `paraskevasleivadaros.github.io` and change `baseUrl` to `/` and `projectName` to `paraskevasleivadaros.github.io` in `docusaurus.config.js`.
 
 ### How We Got Started
 The project was initially created using the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website):
