@@ -4026,9 +4026,9 @@ css-what@^6.0.1, css-what@^6.1.0:
   integrity sha512-u/O3vwbptzhMs3L1fQE82ZSLHQQfto5gyZzwteVIEyeaY5Fc7R4dapF/BvRoSYFeqfBk4m0V1Vafq5Pjv25wvA==
 
 cssdb@^8.6.0:
-  version "8.9.0"
-  resolved "https://registry.npmjs.org/cssdb/-/cssdb-8.9.0.tgz"
-  integrity sha512-J8jOU/hLjaXcO1LldOLraJSQpfLXRKof0I7mtbRyOy2AAXgqst0x9rlgi2qXeD6d0ou3ZLqcPAMqYVbpCbrxEw==
+  version "8.12.0"
+  resolved "https://registry.yarnpkg.com/cssdb/-/cssdb-8.12.0.tgz#17b09d5b73c49def1b8258fe44a4ebfdf99b308b"
+  integrity sha512-A8/XPAtGymaiKrVU++Xxmu+277gNdjKH0876QFiEFufAyKPX7V/+jVynbfiN9b45Hz07iKO4b7oJuECFTl6YQQ==
 
 cssesc@^3.0.0:
   version "3.0.0"
