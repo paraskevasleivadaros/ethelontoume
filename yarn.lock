@@ -1514,24 +1514,24 @@
   resolved "https://registry.npmjs.org/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
 
-"@docsearch/core@4.6.3":
-  version "4.6.3"
-  resolved "https://registry.npmjs.org/@docsearch/core/-/core-4.6.3.tgz"
-  integrity sha512-rUOujwIpxJRgD7+kicVsI3D5sqBvdiRTquzWBpTEXZs8ZXfGbfzpus5HqumaNYTppN2HvH8E2yNuRwYdHJeOlA==
+"@docsearch/core@4.7.1":
+  version "4.7.1"
+  resolved "https://registry.yarnpkg.com/@docsearch/core/-/core-4.7.1.tgz#50ffd913037fdcf33640a3739e31e21f214e5b6f"
+  integrity sha512-uzIFuu2Wsf3+/ZdLGDl6MhpjCZQ5DTMBGe1u/2DdQV+GlHEerOcthWZAoptCsNtjk+DX4Tbx3HmEgJE7RuMQhw==
 
-"@docsearch/css@4.6.3":
-  version "4.6.3"
-  resolved "https://registry.yarnpkg.com/@docsearch/css/-/css-4.6.3.tgz#a94065af4a996dd927dc5dda383395e583dbd638"
-  integrity sha512-nlOwcXcsNAptQl4vlL4MA78qNJKO0Qlds5GuBjCoePgkebTXLSf8Qt1oyZ3YBshYupKXG9VRGEsk1zr23d+bzQ==
+"@docsearch/css@4.7.1":
+  version "4.7.1"
+  resolved "https://registry.yarnpkg.com/@docsearch/css/-/css-4.7.1.tgz#0b45c4bed63d0f0993d6f368fc3229da48f70106"
+  integrity sha512-AsMPnbNmVLDNjhtgfq4ZRskNvWR8vuK6riEegHp3kjBFtxbmTWPzZ5s1FJ04SGr2D0ZXglueUNISsV2sDgV6Jw==
 
 "@docsearch/react@^3.9.0 || ^4.3.2":
-  version "4.6.3"
-  resolved "https://registry.npmjs.org/@docsearch/react/-/react-4.6.3.tgz"
-  integrity sha512-Bg2wdDsoQVlNCcEKuEJAU04tvHCqgx8rIu+uIoM4pRtcx3TBKJuXutJik3LTA8LRc9YEyHkrYUrmcC0D7BYf+g==
+  version "4.7.1"
+  resolved "https://registry.yarnpkg.com/@docsearch/react/-/react-4.7.1.tgz#91de979757210031475a00bcb9ea767feda0f9b7"
+  integrity sha512-MhRNQp+Ew+i/xc/+ydDgSQmu6/lEH+Og8F0d1qpXWV/kKNw8OhFfDnLNJlNLiqZQhU1GaEv37G4wxipKw+HdNA==
   dependencies:
     "@algolia/autocomplete-core" "1.19.2"
-    "@docsearch/core" "4.6.3"
-    "@docsearch/css" "4.6.3"
+    "@docsearch/core" "4.7.1"
+    "@docsearch/css" "4.7.1"
 
 "@docusaurus/babel@3.10.2":
   version "3.10.2"
